@@ -149,26 +149,6 @@
       "lead": "I switched from instant to this and stopped buying coffee out completely.",
       "rating": 4.5,
       "category": "Kitchen"
-    },
-    {
-      "excerpt": "Its a very good product. Maintanence is must",
-      "pros": [
-        "very good boy "
-      ],
-      "price": "999999999",
-      "was": "69999999999999",
-      "accent": "#3b5bdb",
-      "deal": "50% off",
-      "affiliate": "no-link",
-      "cons": [
-        "very bad boy"
-      ],
-      "title": "Ritchie",
-      "verdict": "must try once in a lifetime",
-      "id": "Ritchie",
-      "image": "/images/uploads/whatsapp-image-2026-05-31-at-22.11.45.jpeg",
-      "rating": 4.5,
-      "category": "Beauty"
     }
   ]
 }

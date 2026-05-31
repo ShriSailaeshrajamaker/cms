@@ -1,106 +1,174 @@
 {
   "products": [
     {
-      "id": "wireless-earbuds-pro",
-      "title": "NovaBuds Pro Wireless Earbuds",
-      "category": "Electronics",
-      "image": "",
-      "accent": "#3b5bdb",
+      "excerpt": "Punchy sound, 36-hour battery and ANC that genuinely works.",
+      "pros": [
+        "Genuine noise cancellation",
+        "36-hour battery",
+        "Comfortable fit",
+        "Fast USB-C charging"
+      ],
       "price": "₹1,799",
       "was": "₹3,999",
-      "rating": 4.5,
+      "accent": "#3b5bdb",
       "deal": "55% OFF",
-      "excerpt": "Punchy sound, 36-hour battery and ANC that genuinely works.",
       "affiliate": "https://example.com/aff/earbuds",
+      "cons": [
+        "App is basic",
+        "Touch controls feel sensitive"
+      ],
+      "title": "NovaBuds Pro Wireless Earbuds",
+      "verdict": "For under ₹2,000 these are a steal. Grab them before the deal ends.",
+      "id": "wireless-earbuds-pro",
+      "image": "",
       "lead": "If you've been waiting for budget earbuds that don't sound like a tin can, these are the pair I recommend.",
-      "pros": ["Genuine noise cancellation", "36-hour battery", "Comfortable fit", "Fast USB-C charging"],
-      "cons": ["App is basic", "Touch controls feel sensitive"],
-      "verdict": "For under ₹2,000 these are a steal. Grab them before the deal ends."
+      "rating": 4.5,
+      "category": "Electronics"
     },
     {
-      "id": "smart-led-strip",
-      "title": "GlowDrift Smart LED Light Strip",
-      "category": "Home",
-      "image": "",
-      "accent": "#7048e8",
+      "excerpt": "App and music-sync RGB lighting that transforms a room in minutes.",
+      "pros": [
+        "Easy 10-minute install",
+        "Great music sync",
+        "Voice assistant support",
+        "Very cheap for 5m"
+      ],
       "price": "₹699",
       "was": "₹1,499",
-      "rating": 4,
+      "accent": "#7048e8",
       "deal": "BESTSELLER",
-      "excerpt": "App and music-sync RGB lighting that transforms a room in minutes.",
       "affiliate": "https://example.com/aff/led",
+      "cons": [
+        "2.4GHz Wi-Fi only",
+        "Remote is basic"
+      ],
+      "title": "GlowDrift Smart LED Light Strip",
+      "verdict": "Best bang-for-buck room upgrade. Instant ambience without spending much.",
+      "id": "smart-led-strip",
+      "image": "",
       "lead": "The single cheapest upgrade that made my room look twice as expensive.",
-      "pros": ["Easy 10-minute install", "Great music sync", "Voice assistant support", "Very cheap for 5m"],
-      "cons": ["2.4GHz Wi-Fi only", "Remote is basic"],
-      "verdict": "Best bang-for-buck room upgrade. Instant ambience without spending much."
+      "rating": 4,
+      "category": "Home"
     },
     {
-      "id": "insulated-bottle",
-      "title": "TerraFlask Insulated Steel Bottle",
-      "category": "Fitness",
-      "image": "",
-      "accent": "#0ca678",
+      "excerpt": "Keeps drinks cold 24 hours and hot for 12 — leak-proof and tough.",
+      "pros": [
+        "24h cold / 12h hot",
+        "Truly leak-proof",
+        "Durable finish",
+        "Easy to clean"
+      ],
       "price": "₹899",
       "was": "₹1,799",
-      "rating": 5,
+      "accent": "#0ca678",
       "deal": "",
-      "excerpt": "Keeps drinks cold 24 hours and hot for 12 — leak-proof and tough.",
       "affiliate": "https://example.com/aff/bottle",
+      "cons": [
+        "Heavy when full",
+        "Too wide for some cup holders"
+      ],
+      "title": "TerraFlask Insulated Steel Bottle",
+      "verdict": "If you buy one bottle this year, make it this. The insulation is the real deal.",
+      "id": "insulated-bottle",
+      "image": "",
       "lead": "The first bottle that genuinely kept ice overnight in an Indian summer.",
-      "pros": ["24h cold / 12h hot", "Truly leak-proof", "Durable finish", "Easy to clean"],
-      "cons": ["Heavy when full", "Too wide for some cup holders"],
-      "verdict": "If you buy one bottle this year, make it this. The insulation is the real deal."
+      "rating": 5,
+      "category": "Fitness"
     },
     {
-      "id": "vitamin-c-serum",
-      "title": "Lumè 15% Vitamin C Glow Serum",
-      "category": "Beauty",
-      "image": "",
-      "accent": "#f76707",
+      "excerpt": "Lightweight brightening serum that evens out tone over a few weeks.",
+      "pros": [
+        "Non-sticky finish",
+        "Visible brightening",
+        "Layers under SPF",
+        "Affordable"
+      ],
       "price": "₹549",
       "was": "₹999",
-      "rating": 4.5,
+      "accent": "#f76707",
       "deal": "NEW",
-      "excerpt": "Lightweight brightening serum that evens out tone over a few weeks.",
       "affiliate": "https://example.com/aff/serum",
+      "cons": [
+        "Needs daily use",
+        "Glass dropper is fragile"
+      ],
+      "title": "Lumè 15% Vitamin C Glow Serum",
+      "verdict": "A reliable, beginner-friendly vitamin C that punches above its price.",
+      "id": "vitamin-c-serum",
+      "image": "",
       "lead": "Most vitamin C serums are sticky or fizzle fast. This one struck a rare balance.",
-      "pros": ["Non-sticky finish", "Visible brightening", "Layers under SPF", "Affordable"],
-      "cons": ["Needs daily use", "Glass dropper is fragile"],
-      "verdict": "A reliable, beginner-friendly vitamin C that punches above its price."
+      "rating": 4.5,
+      "category": "Beauty"
     },
     {
-      "id": "mini-projector",
-      "title": "CinePop Mini Portable Projector",
-      "category": "Electronics",
-      "image": "",
-      "accent": "#1098ad",
+      "excerpt": "Pocket-sized projector that turns any wall into movie night.",
+      "pros": [
+        "Big 100-inch image",
+        "Auto-keystone",
+        "HDMI/USB/mirroring",
+        "Truly portable"
+      ],
       "price": "₹4,299",
       "was": "₹7,999",
-      "rating": 4,
+      "accent": "#1098ad",
       "deal": "46% OFF",
-      "excerpt": "Pocket-sized projector that turns any wall into movie night.",
       "affiliate": "https://example.com/aff/projector",
+      "cons": [
+        "Needs a dark room",
+        "Speaker is just okay"
+      ],
+      "title": "CinePop Mini Portable Projector",
+      "verdict": "A brilliant budget entry into projectors. Pair with a Bluetooth speaker.",
+      "id": "mini-projector",
+      "image": "",
       "lead": "For the price of a few cinema tickets, this turned my wall into a 100-inch screen.",
-      "pros": ["Big 100-inch image", "Auto-keystone", "HDMI/USB/mirroring", "Truly portable"],
-      "cons": ["Needs a dark room", "Speaker is just okay"],
-      "verdict": "A brilliant budget entry into projectors. Pair with a Bluetooth speaker."
+      "rating": 4,
+      "category": "Electronics"
     },
     {
-      "id": "coffee-press",
-      "title": "BrewLab French Press 600ml",
-      "category": "Kitchen",
-      "image": "",
-      "accent": "#e8590c",
+      "excerpt": "Thick glass and a 4-level filter that makes cafe-grade coffee at home.",
+      "pros": [
+        "Rich sediment-free coffee",
+        "Heat-resistant glass",
+        "Dishwasher safe",
+        "Great for two cups"
+      ],
       "price": "₹749",
       "was": "₹1,299",
-      "rating": 4.5,
+      "accent": "#e8590c",
       "deal": "",
-      "excerpt": "Thick glass and a 4-level filter that makes cafe-grade coffee at home.",
       "affiliate": "https://example.com/aff/press",
+      "cons": [
+        "Needs a coarse grind",
+        "Handle glass gently"
+      ],
+      "title": "BrewLab French Press 600ml",
+      "verdict": "The easiest upgrade from instant coffee. Pays for itself in weeks.",
+      "id": "coffee-press",
+      "image": "",
       "lead": "I switched from instant to this and stopped buying coffee out completely.",
-      "pros": ["Rich sediment-free coffee", "Heat-resistant glass", "Dishwasher safe", "Great for two cups"],
-      "cons": ["Needs a coarse grind", "Handle glass gently"],
-      "verdict": "The easiest upgrade from instant coffee. Pays for itself in weeks."
+      "rating": 4.5,
+      "category": "Kitchen"
+    },
+    {
+      "excerpt": "Its a very good product. Maintanence is must",
+      "pros": [
+        "very good boy "
+      ],
+      "price": "999999999",
+      "was": "69999999999999",
+      "accent": "#3b5bdb",
+      "deal": "50% off",
+      "affiliate": "no-link",
+      "cons": [
+        "very bad boy"
+      ],
+      "title": "Ritchie",
+      "verdict": "must try once in a lifetime",
+      "id": "Ritchie",
+      "image": "/images/uploads/whatsapp-image-2026-05-31-at-22.11.45.jpeg",
+      "rating": 4.5,
+      "category": "Beauty"
     }
   ]
 }
